@@ -1,0 +1,2 @@
+# jekyll
+static webpage/blog
